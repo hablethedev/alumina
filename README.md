@@ -1,3 +1,3 @@
 # Alumina
 
-Simply make maps in Python.
+Simply make video game maps in Python.
