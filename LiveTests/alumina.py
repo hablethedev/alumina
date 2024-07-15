@@ -12,4 +12,4 @@ def init(name, mapL, mapE, madeWith=True):
     print("Made with Alumina, by hablethedev")
     print(" ")
   print("Welcome to " + name + ".")
-  print("Currently in " + mapLocations[mapEntities.value("P")])
+  print("Currently in " + mapLocations[mapEntities.index("P")])
