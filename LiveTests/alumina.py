@@ -2,7 +2,7 @@
 #
 # Yes, Alumina is one python file.
 
-def init(name, madeWith=True, mapL, mapE):
+def init(name, mapL, mapE, madeWith=True):
   global mapLocations
   mapLocations = mapL
   global mapEntities
