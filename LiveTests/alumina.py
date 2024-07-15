@@ -2,7 +2,6 @@
 #
 # Yes, Alumina is one python file.
 
-
 def init(name madeWith=True):
   print(" ")
   if madeWith != False:
