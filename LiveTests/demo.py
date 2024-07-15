@@ -9,4 +9,4 @@ maplocations = ["","","","",""
       "","","Grassy Grasslands","","",
       "","","","",""]
 
-maphandle.init(gameName, True, maplocations, mapentities)
+maphandle.init(gameName, maplocations, mapentities)
