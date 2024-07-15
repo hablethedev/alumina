@@ -1,3 +1,5 @@
+import Alumina as map
+
 gameName = input("Input a game name: ")
 
-init(gameName)
+map.init(gameName)
