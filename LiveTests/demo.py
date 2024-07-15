@@ -1,5 +1,12 @@
-import alumina as map
+import alumina as maphandle
 
 gameName = input("Input a game name: ")
+mapentities = ["","","","",""
+      "","","P","","",
+      "","","","",""]
+      
+maplocations = ["","","","",""
+      "","","Grassy Grasslands","","",
+      "","","","",""]
 
-map.init(gameName)
+maphandle.init(gameName)
